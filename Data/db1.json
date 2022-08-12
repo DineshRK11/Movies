@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "mName": "kgf-2",
+      "hero": "Yash",
+      "genere": "drama",
+      "Trailer": "https://www.youtube.com/watch?v=tLeTx5OdjZs",
+      "Poster": "https://static.toiimg.com/photo/msid-91119051/91119051.jpg",
+      "story": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "id": 1
+    },
+    {
+      "mName": "Jai Bhim",
+      "hero": "Suriya",
+      "genere": "Drama",
+      "Trailer": "https://www.youtube.com/watch?v=nnXpbTFrqXA",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Jai_Bhim_film_poster.jpg/220px-Jai_Bhim_film_poster.jpg",
+      "story": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "id": 2
+    },
+    {
+      "mName": "Sarathi",
+      "hero": "Darshan",
+      "genere": "suspence",
+      "Trailer": "https://www.youtube.com/watch?v=RMn_qV-Il-o",
+      "Poster": "http://timesofindia.indiatimes.com/photo/61264900.cms",
+      "story": "when an orphan boy is adopted, he discovers the true value of a family. He randomly comes across an old lady suffering from dissociative identity disorder but only has blurry memories of her family who got apart from her.",
+      "id": 3
+    },
+    {
+      "mName": "Vikrant rona",
+      "hero": "Sudeep",
+      "genere": "thriller",
+      "Trailer": "https://www.youtube.com/watch?v=VV9SfpGRVFw",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/5/51/Vikrant_Rona.jpeg",
+      "story": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural.",
+      "id": 4
+    },
+    {
+      "mName": "Vikram",
+      "hero": "Kamal Hassan",
+      "genere": "action",
+      "Trailer": "https://www.youtube.com/watch?v=OKBMCL-frPU",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+      "story": "Members of a black ops team must track and eliminate a gang of masked murderers.",
+      "id": 5
+    }
+  ]
+}
